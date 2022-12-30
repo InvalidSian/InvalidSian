@@ -1,9 +1,6 @@
 ### Ohayoo, Sian hier 👋
 
 <!--
-**InvalidSian/InvalidSian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 📌〢ÜBER MICH:
 
 🔭 〢 Derzeit arbeite ich an meinem eigenen öffentlichen Discord-Bot!
